@@ -1,2 +1,2 @@
-# My-example
-php sample projects for beginners
+# Hello for everyone this is my examples for beginners!
+
