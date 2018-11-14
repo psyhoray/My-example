@@ -1,0 +1,9 @@
+<?php
+ 
+error_reporting(-1);
+ 
+$bitcoins = 0.004321; /*Число биткоинов*/
+$exchangeRate = 426275.38; /*Курс обмена*/
+$roubles = $bitcoins*$exchangeRate; 
+ 
+echo "$bitcoin биткоинов можно обменять на $roubles рублей";
